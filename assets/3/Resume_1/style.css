@@ -1,0 +1,40 @@
+body {
+ margin: 0 auto;
+max-width: 500px;
+    }
+html{
+    background-color: #153448;
+    font-family: "Source Code Pro", monospace;
+    ;
+}
+.subline{
+    color: #153448 ; 
+    background-color: #DFD0B8;
+}
+li{
+    color: beige;
+}
+p{
+    color: #948979;
+}
+h3{
+    color: gainsboro;
+}
+#name{
+    color: #DFD0B8
+;
+}
+h2{
+    text-align: center;
+}
+h1{text-align: center;}
+h3{text-align: center;}
+h4{text-align: center; color: #DFD0B8;}
+
+p{text-align: center;}
+ul{text-align: center;}
+a{color: #DFD0B8;}
+img{
+    display: block;
+    margin: 0 auto;
+}

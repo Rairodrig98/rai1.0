@@ -1,0 +1,39 @@
+Style your resume!
+
+We are going to style our online resume we created last week.
+Things to keep in mind: 
+    - Go above and beyond, don't be afraid to add things or do things differently.
+    - Try to use as much IDs and Classes as possible, avoid using element selectors.
+    - Have fun!
+
+1. Set the body tag to the following properties:
+    - margin: 0 auto;
+    - max-width: 500px;
+
+2. Choose a palette: https://colorhunt.co/
+    - Background of the website (html element)
+    - Main Title (h1)
+    - Subtitles (h2, h3)
+    - Text (p, li)
+    - Note: you can combine background-color and color properties to get different styles
+
+3. Choose a font family, import it to your HTML and assign it to the whole website.
+
+4. Assign colors to all your elements.
+    - h1 title
+    - h2, h3, h4...
+    - paragraphs
+    - lists
+
+5a. Set your unordered lists to a font size of 40px, and set each list item to HALF the size of its parent.
+5b. Change the color of your bullet points to the one you chose for your palette. See: https://developer.mozilla.org/en-US/docs/Web/CSS/::marker
+
+6. Set all your paragraphs to a font size of 20px.
+
+7. Change the text align property on EVERY h1 and h2 to center.
+
+8. Align your profile photo to the center by using the following properties:
+    - display: block;
+    - margin: 0 auto;
+
+9. Change the color of all links to a color from your color palette.
